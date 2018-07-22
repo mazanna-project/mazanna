@@ -1,0 +1,21 @@
+{
+  "name": "marzanna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "cloudflare": "^2.4.1",
+    "dateformat": "^3.0.3",
+    "do-wrapper": "^3.14.2",
+    "express": "^4.16.3",
+    "winston": "^3.0.0"
+  }
+}
